@@ -1,0 +1,122 @@
+{
+   "+loO+DGmT6DTr59JZFAnGSlBAwPkO5M/R9ec1Sw/9KA=": {
+      "expiry": 1585061850.519415,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1553525850.519419
+   },
+   "/2rah7II3HL9HXHr1GMCxcz8/LZWVE0m0cJBKpejx3E=": {
+      "expiry": 1585061900.412551,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1553525900.412554
+   },
+   "/VfiBGkIXip4Q8zRkQjWM6M2ec5UAwjM0Pe7EbAVj4o=": {
+      "expiry": 1585061903.733638,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1553525903.733642
+   },
+   "0J7rAWV0ouCFYJ9XrkDiKnAO1SshXJmLJE1SS3V8kDM=": {
+      "expiry": 1585061850.075159,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1553525850.075161
+   },
+   "2dQZAIXCPYNIoCREhzZEqDcldaiTMEFISOOe2d39jjA=": {
+      "expect_ct": {
+         "expect_ct_enforce": false,
+         "expect_ct_expiry": 1553612251.472025,
+         "expect_ct_observed": 1553525851.472025,
+         "expect_ct_report_uri": "https://reports.fb.com/expectct/"
+      },
+      "expiry": 1569077851.472014,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1553525851.472015
+   },
+   "4S1wtu62mpsGYZ918Agq7trNri8V61H2+y28RqN+vdw=": {
+      "expect_ct": {
+         "expect_ct_enforce": false,
+         "expect_ct_expiry": 1553612257.882388,
+         "expect_ct_observed": 1553525857.882388,
+         "expect_ct_report_uri": "https://reports.fb.com/expectct/"
+      },
+      "expiry": 1569077857.882372,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1553525857.882377
+   },
+   "5EdUoB7YUY9zZV+2DkgVXgho8WUvp+D+6KpeUOhNQIM=": {
+      "expiry": 1585063779.950842,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1553527779.950847
+   },
+   "8/RrMmQlCD2Gsp14wUCE1P8r7B2C5+yE0+g79IPyRsc=": {
+      "expiry": 1585063758.819533,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1553527758.81954
+   },
+   "9jFJneXMVHTXLZTJwwlFuScHMcN/99brFSgqRKTizGw=": {
+      "expiry": 1585061906.372119,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1553525906.372123
+   },
+   "IB1nmIQGSGJkVbjuknew+6941ixGIN/jx80i6t3Kklc=": {
+      "expiry": 1585063779.033654,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1553527779.033658
+   },
+   "LAZkYS46RVRcFiZAzmUJrz6TJHBd4nwE6VxPWfPLYHs=": {
+      "expiry": 1564412252.910842,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1553525852.910848
+   },
+   "TZmujbl93Yt3JI8wZ4X/zjkA0WFNGNW44A+o7h4YyHw=": {
+      "expect_ct": {
+         "expect_ct_enforce": false,
+         "expect_ct_expiry": 1553612256.886808,
+         "expect_ct_observed": 1553525856.886808,
+         "expect_ct_report_uri": "https://reports.fb.com/expectct/"
+      },
+      "expiry": 1569077856.886795,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1553525856.886798
+   },
+   "fJjUrPqhktMfiTHJX3Q0pJi/P12Q72DBgzzJqjlNC4o=": {
+      "expiry": 1564412251.199005,
+      "mode": "force-https",
+      "sts_include_subdomains": true,
+      "sts_observed": 1553525851.19901
+   },
+   "nAuqgR4iEWti7SOdT3UHPl6rmZU/DeaIm38P2O2OkgA=": {
+      "expiry": 1585061902.850002,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1553525902.850005
+   },
+   "q6dsIzg4tpTXGkO3yMyf6ux+L1Ro7jA0cav07C82n4c=": {
+      "expiry": 1569293854.789587,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1553525854.78959
+   },
+   "rrdUKGlQrKXRcc4c8P1P8lMUotKQDMJM39FgQfi+Z7A=": {
+      "expiry": 1585061518.805647,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1553525518.805652
+   },
+   "sDnHl1zzRo9G07HAM2Lrx6RmQql57+BPW/FWI+dNM88=": {
+      "expiry": 1585063781.061813,
+      "mode": "force-https",
+      "sts_include_subdomains": false,
+      "sts_observed": 1553527781.061816
+   }
+}

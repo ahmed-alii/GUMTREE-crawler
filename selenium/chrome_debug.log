@@ -1,0 +1,6 @@
+[56028:775:0325/202917.893373:INFO:CONSOLE(8)] "SW registered", source: https://www.google.com/_/chrome/newtab?ie=UTF-8 (8)
+[56028:775:0325/203017.421808:INFO:CONSOLE(0)] "Uncaught (in promise) Timeout (j)", source: https://www.google.com/recaptcha/api2/anchor?ar=1&k=6LdC3UgUAAAAAJIcyA3Ym4j_nCP-ainSgf1NoFku&co=aHR0cHM6Ly9teS5ndW10cmVlLmNvbTo0NDM.&hl=en&v=v1552285980763&size=normal&cb=hmiig1lcaoii (0)
+[56028:27139:0325/203037.348688:WARNING:spdy_session.cc(3180)] Received HEADERS for invalid stream 57
+[56028:27139:0325/203059.987394:WARNING:spdy_session.cc(3180)] Received HEADERS for invalid stream 67
+[56028:775:0325/203241.981336:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
+[56028:775:0325/203241.981406:WARNING:pref_notifier_impl.cc(23)] Pref observer found at shutdown.
