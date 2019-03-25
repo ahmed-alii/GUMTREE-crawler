@@ -1,6 +1,7 @@
 from selenium import webdriver
 
 options = webdriver.ChromeOptions()
+# uncoment if you want to keep session, cookies and other chrome data.
 # options.add_argument("user-data-dir=selenium")
 driver = webdriver.Chrome("/Users/ahmed/Documents/Scripts/chromedriver", chrome_options=options)
 
