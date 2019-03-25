@@ -6,7 +6,7 @@ driver = webdriver.Chrome("/Users/ahmed/Documents/Scripts/chromedriver", chrome_
 
 f = open('demofile1.txt', 'r')
 g = open('data.csv', 'w')
-driver.get("https://www.google.com")
+driver.get("https://www.gumtree.com")
 
 check = input("login and press 1 to continue...")
 if check == 1:
