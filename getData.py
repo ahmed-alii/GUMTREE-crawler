@@ -1,7 +1,7 @@
 from selenium import webdriver
 
 options = webdriver.ChromeOptions()
-options.add_argument("user-data-dir=selenium")
+# options.add_argument("user-data-dir=selenium")
 driver = webdriver.Chrome("/Users/ahmed/Documents/Scripts/chromedriver", chrome_options=options)
 
 f = open('demofile1.txt', 'r')
